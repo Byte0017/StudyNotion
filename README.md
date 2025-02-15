@@ -1,7 +1,6 @@
 # StudyNotion Edtech Project
 # StudyNotion Online Education Platform (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
-
-![Main Page](images/mainpage.png)
+![mainpage](https://github.com/user-attachments/assets/b550658c-944f-479f-8e28-2e1e69efd642)
 
 ## Project Description
 
@@ -59,6 +58,7 @@ logic for processing and storing the course content and user data.
 
 ### Database
 
+
 The database for the platform is built using MongoDB, which is a NoSQL database that
 provides a flexible and scalable data storage solution. MongoDB allows for the storage of
 unstructured and semi-structured data. The database stores the course content, user data, and other
@@ -70,7 +70,7 @@ relevant information related to the platform.
 Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
 platform:
 
-![Architecture](images/architecture.png)
+![architecture](https://github.com/user-attachments/assets/9afcce82-9b12-4c26-9385-27632245285c)
 
 ## Front End
 
@@ -169,7 +169,7 @@ for an ed-tech platform, with a focus on security, reliability, and ease of use.
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
 
-![Database Schema](images/schema.png)
+![schema](https://github.com/user-attachments/assets/f78cd332-607a-40ef-aa6e-d858540a8e38)
 
 ## API Design
 
